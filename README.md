@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **NextJs, ReactNative, DevOps.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dhirajmokal13](https://github.com/dhirajmokal13)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/dhirajmokal13)
 
 - 💬 Ask me about **NodeJs, ExpressJs, ReactJs, Javascript, Python, MongoDB.**
 
 - 📫 How to reach me **dhirajmokal13@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14nEdrjwyaUG1_KKGsv8J2tk_1M6Yngut/view](https://drive.google.com/file/d/14nEdrjwyaUG1_KKGsv8J2tk_1M6Yngut/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14nEdrjwyaUG1_KKGsv8J2tk_1M6Yngut/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
