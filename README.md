@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dhirajmokal13@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14nEdrjwyaUG1_KKGsv8J2tk_1M6Yngut/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1rQ40NTJaI9SROHMdubRbpCOA1PxoROcP/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
